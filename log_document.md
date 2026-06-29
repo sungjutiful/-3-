@@ -58,7 +58,7 @@
 
 | Claude 결과물 | GPT 결과물 |
 |:---:|:---:|
-| ![Claude UI 결과물](./result_image/a1.png) | ![GPT UI 결과물](./result_image/a2.png) |
+| ![Claude UI 결과물](./a1.png) | ![GPT UI 결과물](./a2.png) |
 
 ---
 
@@ -114,7 +114,7 @@
 
 | 메인 화면 |
 |:---:|
-| ![v1 메인](./result_image/a3.png) |
+| ![v1 메인](./a3.png) |
 
 #### ⚠️ 문제점
 
@@ -161,7 +161,7 @@
 
 | 메인 화면 | 목록 화면 | 상세 화면 |
 |:---:|:---:|:---:|
-| ![v2 메인](./result_image/a3.png) | ![v2 목록](./result_image/a5.png) | ![v2 상세](./result_image/a4.png) |
+| ![v2 메인](./a3.png) | ![v2 목록](./a5.png) | ![v2 상세](./a4.png) |
 
 #### ⚠️ 문제점 및 개선점
 
@@ -191,7 +191,7 @@ flat design with depth --v 6.0
 
 | v3 로고 결과물 |
 |:---:|
-| ![v3 로고](./result_image/a6.png) |
+| ![v3 로고](./a6.png) |
 
 ##### ⚠️ 문제점 및 개선점
 
@@ -214,7 +214,7 @@ flat design with depth --v 6.0
 
 | v3 포스터 결과물 |
 |:---:|
-| ![v3 포스터](./result_image/a8.png) |
+| ![v3 포스터](./a8.png) |
 
 ##### ⚠️ 문제점 및 개선점
 
@@ -247,7 +247,7 @@ simple circle, dark colors, solid white background
 
 | v4 로고 최종 결과물 |
 |:---:|
-| ![v4 로고 최종](./result_image/a9.png) |
+| ![v4 로고 최종](./a9.png) |
 
 ---
 
@@ -307,11 +307,11 @@ simple circle, dark colors, solid white background
 
 | 드라마 포스터 최종 결과물 |
 |:---:|
-| ![드라마 포스터 최종](./result_image/a11.png) |
+| ![드라마 포스터 최종](./a11.png) |
 
 | 텍스트 깨짐, 버튼 깨짐, 포스터, 로고 반영 최종 결과물  |
 |:---:|
-| ![드라마 포스터 최종](./result_image/a7.png) |
+| ![드라마 포스터 최종](./a7.png) |
 
 ---
 
